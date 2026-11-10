@@ -1,0 +1,3 @@
+# Giữ nguyên CRLF và BOM cho file Windows (tránh lỗi .bat và lỗi font tiếng Việt)
+*.bat -text
+*.ps1 -text
